@@ -26,5 +26,5 @@ footer{
     background-color: #f7a7eb;
 }
 img{
-    border: solid; color: #f531e6;
+    border: solid; color: #f531e6; border-radius: 20px;
 }
