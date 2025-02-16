@@ -1,0 +1,30 @@
+* {
+    text-decoration: none;
+}
+.navbar {
+    background: #f531e6; font-family: serif; padding-left: 15px; padding-right: 15px; border-radius: 10px;
+}
+.navdiv {
+    display: flex; align-items: center; justify-content: space-between;
+}
+.logo a{
+    font-size: 40px; font-weight: 600; color-scheme: white;
+}
+li {
+    list-style: none; display: inline-block;
+}
+li a{
+    color: white; font-size: 15px; font-weight: bold; margin: 25px;
+}
+h1{
+    color: #f531e6;
+}
+p{
+   padding-left: 100px; padding-right: 100px;
+}
+footer{
+    background-color: #f7a7eb;
+}
+img{
+    border: solid; color: #f531e6;
+}
